@@ -1,4 +1,13 @@
-# Notes
+# Notes from Victoria Oliveres: 
+
+Don't use D3 every day but only in circumstances:
+
+* Where you want to be creative or innovative a custom visualisation that you can't do with Flourish etc.
+* Where it's an ongoing/reusable resources like a dashboard where the investment of time will be justified
+* Where speed is a problem with third party tools because of the size of data etc.
+* High impact stories
+
+# Notes from D3 course
 
 Use [Gulp](https://developers.google.com/web/ilt/pwa/introduction-to-gulp) to provide a server
 
